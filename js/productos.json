@@ -1,0 +1,23 @@
+[
+    {
+        "id": "corte",
+        "titulo": "Corte Hombre",
+        "imagen": "./img/corte.jpg",
+        "precio": 5000,
+        "tiempo": 40
+    },
+    {
+        "id": "cortebarba",
+        "titulo": "Corte & Barba Hombre",
+        "imagen": "./img/corteybarba.jpg",
+        "precio": 5500,
+        "tiempo": 50
+    },
+    {
+        "id": "cortemujer",
+        "titulo": "Corte Mujer",
+        "imagen": "./img/cortemujer.jpg",
+        "precio": 7000,
+        "tiempo": 60
+    }
+]
